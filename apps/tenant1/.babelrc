@@ -1,0 +1,11 @@
+{
+  "presets": [
+    [
+      "@nrwl/react/babel",
+      {
+        "runtime": "automatic"
+      }
+    ]
+  ],
+  "plugins": ["@babel/plugin-transform-async-to-generator"]
+}

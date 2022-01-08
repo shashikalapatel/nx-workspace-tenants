@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "tenant1": "apps/tenant1",
+    "tenant1-e2e": "apps/tenant1-e2e",
+    "tenant2": "apps/tenant2",
+    "tenant2-e2e": "apps/tenant2-e2e"
+  }
+}
